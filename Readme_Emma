@@ -1,8 +1,0 @@
-Emma Laszlo, Readme File
-For my custom class I represented my class as the real world object of a ball. 
-class variables I implemented are temprature, gas constnat, and diameter. 
-The data variables for my class are self, ball_type (the ball’s type), and pressure_p (the ball’s pressure). 
-The two get-set methods include the pressure and type of the ball.
-Two other methods implemented are inflate and deflate. 
-My demo program takes the 3 different balls, basketball, soccer ball, and water polo ball
-and infates and deflates them recieving the pressure of the each ball. 

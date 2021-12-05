@@ -1,0 +1,19 @@
+Emma Laszlo, Readme File
+For my custom class I represented my class as the real world object of balls. The balls I 
+selected to demo are a basketball, soccerball, and water polo ball. The class
+variables I implemented are temperature, gas constant, and diameter and 
+The data variables for my class are self, ball_type (the ball’s type(basketball ect)), and pressure
+(the ball’s pressure). The two get-set methods include the pressure and type of the ball.
+Two other methods implemented are inflate and deflate of the balls. My demo program  does just that
+takes the 3 different balls, basketball, soccer ball, and water polo ball,
+ and infates and deflates them printing the final pressures of each of the balls. 
+
+Variable descriptions:
+- Class Variable temperature, gas constant, and diameter are needed to calculate 
+the pressures of the balls 
+- data variables: self, the ball type (aka basketball soccer ball, and water polo ball), and the pressures
+- get- set methods: get- set method for both the ball type and pressure
+- the two other methods I implemented are inflating and deflating the balls and recieving the pressure after inflation and deflations 
+
+What does the Demo Program Do?
+The demo program uses the two other methods of inflate and deflate to inflate and deflate the three different balls and print the final pressures. The demo inflates the basketball, soccer ball, and water polo ball and then uses the polo ball again to demonstate deflation as well. To run the demo hit run and the results will be printed in the terminal of all the different pressures.
